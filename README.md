@@ -1,2 +1,0 @@
-# homepage
-Academic homepage
